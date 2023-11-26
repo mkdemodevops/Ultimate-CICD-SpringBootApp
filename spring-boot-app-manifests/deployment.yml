@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: mkofficial/ultimate-cicd:replaceImageTag
+        image: mkofficial/ultimate-cicd:45
         ports:
         - containerPort: 9090
